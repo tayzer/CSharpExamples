@@ -78,6 +78,10 @@ namespace CSharp.Examples.OperatorOverloading
 
             Console.WriteLine($"Round 1 Blue [{blueTeamScore.Round1}] : Red [{redTeamScore.Round1}] ");
             Console.WriteLine($"Round 2 Blue [{blueTeamScore.Round2}] : Red [{redTeamScore.Round2}] ");
+
+            //Output:
+            //Round 1 Blue[6] : Red[4]
+            //Round 2 Blue[21] : Red[5]
         }
     }
 }
